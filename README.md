@@ -16,7 +16,7 @@ Time spent: **4** hours spent in total
   - [X] Steps to recreate:
     - Make a post with this code: ``` XSS Attack[caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert(1)'">CLICK THIS</a> ```
     - Access the post.
-  - [X] Affected source code:
+  - [X] Affected source code: 
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
 2. WordPress 4.1-4.2.1 - Unauthenticated Genericons Cross-Site Scripting
   - [X] Summary: 

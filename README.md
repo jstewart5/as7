@@ -14,7 +14,7 @@ Time spent: **4** hours spent in total
     - Fixed in version: 4.3.1
   - [X] GIF Walkthrough: https://puu.sh/zK4da/f02dedf433.gif
   - [X] Steps to recreate:
-	- Make a post with this code: https://puu.sh/zK4ty/03a4af3b9c.png
+	- Make a post with this code: https://puu.sh/zK4ty/03a4af3b9c.png 
   - [X] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
 2. (Required) Vulnerability Name or ID

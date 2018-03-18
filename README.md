@@ -17,7 +17,8 @@ Time spent: **4** hours spent in total
   
   - [X] Affected source code: 
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
-2. WordPress 3.7-4.4 - Authenticated Cross-Site Scripting 
+2. WordPress 3.7-4.4 - Authenticated Cross-Site Scripting
+
   - [X] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2.2

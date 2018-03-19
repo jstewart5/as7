@@ -25,7 +25,7 @@ Time spent: **4** hours spent in total
   - [X] Steps to recreate: As an admin, append ``` <svg onload=alert(1)> ``` to the end of a url when adding text to a new post.
   - [X] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/7ab65139c6838910426567849c7abed723932b87)
-3. Authenticated Cross-Site Scripting (XSS) via Media File Metadata
+3. 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
   - [X] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
@@ -48,7 +48,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This is a big leap from last week's assignment. Found it challenging to make this report ontop of understanding how to work the VM and Wordpress site.
+This is a big leap from last week's assignment. Found it challenging to make this report ontop of understanding how to work the VM and Wordpress site. This was less of a learning experience and more of a hassle.
 
 ## License
 

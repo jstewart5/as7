@@ -30,7 +30,7 @@ Time spent: **4** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
     - Fixed in version: 4.7.3
-  - [X] GIF Walkthrough: ![Alt Text](https://puu.sh/zKDs5/f6640cf4f9.gif)
+  - [X] GIF Walkthrough: ![Alt Text](https://i.imgur.com/3JwU8h2.gifv)
   - [X] Steps to recreate: After uploading the [laced media file](https://www.securify.nl/advisory/SFY20160742/xss.mp3), insert it as a playlist into a post.
   - [X] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/28f838ca3ee205b6f39cd2bf23eb4e5f52796bd7)

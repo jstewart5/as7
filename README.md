@@ -1,4 +1,3 @@
-# as7
 # Project 7 - WordPress Pentesting
 
 Time spent: **4** hours spent in total
